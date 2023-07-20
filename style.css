@@ -1,0 +1,19 @@
+nav {
+    background-color: dodgerblue;
+    height: 130;
+}
+
+nav a{
+    color: white;
+}
+
+section img {
+    padding: 5;
+    width: 1900;
+    height: 700;
+  }
+
+  section table{
+    width: 100;
+      
+  }
